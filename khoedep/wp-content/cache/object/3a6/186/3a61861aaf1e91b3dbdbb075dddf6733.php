@@ -1,0 +1,1 @@
+]žû\<?php exit; ?>a:1:{s:7:"content";s:93:"a:3:{s:10:"last_check";i:1559993300;s:15:"current_version";s:5:"2.1.2";s:11:"update_info";N;}";}

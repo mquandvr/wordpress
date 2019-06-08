@@ -1,0 +1,1 @@
+\žû\<?php exit; ?>a:1:{s:7:"content";s:193:"a:4:{s:6:"Status";i:-2;s:7:"Message";s:80:"You can only optimize images from a domain with a single user. Request rejected.";s:7:"ImageID";s:4:"1411";s:8:"Filename";s:19:"cropped-favicon.png";}";}

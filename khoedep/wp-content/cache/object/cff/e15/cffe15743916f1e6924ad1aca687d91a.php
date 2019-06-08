@@ -1,0 +1,1 @@
+Xžû\<?php exit; ?>a:1:{s:7:"content";s:267:"a:3:{s:35:"litespeed-cache/litespeed-cache.php";s:53:"LiteSpeed_Cache_Activation::uninstall_litespeed_cache";s:27:"autoptimize/autoptimize.php";s:29:"autoptimizeMain::on_uninstall";s:44:"shortpixel-image-optimiser/wp-shortpixel.php";s:25:"shortPixelUninstallPlugin";}";}

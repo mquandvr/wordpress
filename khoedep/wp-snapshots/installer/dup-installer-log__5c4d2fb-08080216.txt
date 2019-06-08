@@ -1,0 +1,273 @@
+********************************************************************************
+* DUPLICATOR-PRO: Install-Log
+* STEP-1 START @ 08:11:58
+* VERSION: 1.3.14
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+PACKAGE INFO_ CURRENT SERVER                                | ORIGINAL SERVER
+PHP VERSION__:5.6.36                                        | 5.5.38
+OS___________:WINNT                                         | Linux
+CREATED______:2019-06-08 08:02:16
+WP VERSION___:5.1.1
+DUP VERSION__:1.3.14
+DB___________:10.1.32
+DB TABLES____:53
+DB ROWS______:13,591
+DB FILE SIZE_:10.25MB
+********************************************************************************
+PHP:		5.5.38 | SAPI: litespeed
+PHP MEMORY:	"4294967296" | SUHOSIN: "disabled"
+SERVER:		"LiteSpeed"
+DOC ROOT:	"/home/khoedep/domains/shopkhoedepmoingay.com/public_html"
+DOC ROOT 755:	true
+LOG FILE 644:	true
+REQUEST URL:	"https://shopkhoedepmoingay.com/dup-installer/main.installer.php"
+SAFE MODE :	"0"
+CONFIG MODE :	"NEW"
+--------------------------------------
+PRE-EXTRACT-CHECKS
+--------------------------------------
+- PASS: Apache '.htaccess' not found - no backup needed.
+- PASS: Microsoft IIS 'web.config' not found - no backup needed.
+- PASS: WordFence '.user.ini' not found - no backup needed.
+--------------------------------------
+ARCHIVE SETUP
+--------------------------------------
+NAME:	20190608_khoedepmoingay_2_5c4d2fb4f5b05ae49076_20190608080216_archive.zip
+SIZE:	176.74MB
+
+>>> Starting ZipArchive Unzip
+[PHP ERR][NOTICE] MSG:Undefined variable: extract_filenamesdupInstallerFolder [CODE:8|FILE:/home/khoedep/domains/shopkhoedepmoingay.com/public_html/dup-installer/ctrls/ctrl.s1.php|LINE:175]
+[PHP ERR][NOTICE] MSG:Undefined variable: dupInstallerFolder [CODE:8|FILE:/home/khoedep/domains/shopkhoedepmoingay.com/public_html/dup-installer/ctrls/ctrl.s1.php|LINE:183]
+[PHP ERR][NOTICE] MSG:Undefined variable: dupInstallerFolder [CODE:8|FILE:/home/khoedep/domains/shopkhoedepmoingay.com/public_html/dup-installer/ctrls/ctrl.s1.php|LINE:186]
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 19875
+    [filename] => /home/khoedep/domains/shopkhoedepmoingay.com/public_html/20190608_khoedepmoingay_2_5c4d2fb4f5b05ae49076_20190608080216_archive.zip
+    [comment] => 
+)
+File timestamp set to Current: 2019-06-08 08:12:33
+<<< ZipArchive Unzip Complete: true
+--------------------------------------
+POST-EXTACT-CHECKS
+--------------------------------------
+PERMISSION UPDATES:
+    -DIRS:  '755'
+    -FILES: '644'
+
+STEP-1 COMPLETE @ 08:12:34 - RUNTIME: 36.3599 sec.
+[PHP ERR][WARN] MSG:mysqli_connect(): Headers and client library minor version mismatch. Headers:50531 Library:50634 [CODE:2|FILE:/home/khoedep/domains/shopkhoedepmoingay.com/public_html/dup-installer/classes/class.db.php|LINE:44]
+
+
+
+********************************************************************************
+* DUPLICATOR-LITE INSTALL-LOG
+* STEP-2 START @ 08:13:00
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+[PHP ERR][WARN] MSG:mysqli_connect(): Headers and client library minor version mismatch. Headers:50531 Library:50634 [CODE:2|FILE:/home/khoedep/domains/shopkhoedepmoingay.com/public_html/dup-installer/classes/class.db.php|LINE:44]
+--------------------------------------
+DATABASE-ENVIRONMENT
+--------------------------------------
+MYSQL VERSION:	This Server: 5.6.34 -- Build Server: 10.1.32
+FILE SIZE:	dup-database__5c4d2fb-08080216.sql (4.61MB)
+TIMEOUT:	5000
+MAXPACK:	16777216
+SQLMODE:	NO_ENGINE_SUBSTITUTION
+NEW SQL FILE:	[/home/khoedep/domains/shopkhoedepmoingay.com/public_html/dup-installer/dup-installer-data__5c4d2fb-08080216.sql]
+COLLATE FB:	Off
+
+NOTICE: This servers version [5.6.34] is less than the build version [10.1.32].  
+If you find issues after testing your site please referr to this FAQ item.
+https://snapcreek.com/duplicator/docs/faqs-tech/#faq-installer-260-q
+--------------------------------------
+DATABASE RESULTS
+--------------------------------------
+DB VIEWS:	enabled
+DB PROCEDURES:	enabled
+ERRORS FOUND:	0
+DROPPED TABLES:	53
+RENAMED TABLES:	0
+QUERIES RAN:	470
+
+5cf2c16e2de22_commentmeta: (16)
+5cf2c16e2de22_comments: (377)
+5cf2c16e2de22_duplicator_packages: (0)
+5cf2c16e2de22_ewwwio_images: (0)
+5cf2c16e2de22_ewwwio_queue: (0)
+5cf2c16e2de22_links: (0)
+5cf2c16e2de22_lionthemes_user_like_ip: (0)
+5cf2c16e2de22_litespeed_img_optm: (0)
+5cf2c16e2de22_litespeed_optimizer: (0)
+5cf2c16e2de22_options: (612)
+5cf2c16e2de22_postmeta: (6640)
+5cf2c16e2de22_posts: (456)
+5cf2c16e2de22_revslider_css: (109)
+5cf2c16e2de22_revslider_layer_animations: (0)
+5cf2c16e2de22_revslider_navigations: (1)
+5cf2c16e2de22_revslider_sliders: (4)
+5cf2c16e2de22_revslider_slides: (12)
+5cf2c16e2de22_revslider_static_slides: (0)
+5cf2c16e2de22_smush_dir_images: (4148)
+5cf2c16e2de22_term_relationships: (392)
+5cf2c16e2de22_term_taxonomy: (98)
+5cf2c16e2de22_termmeta: (57)
+5cf2c16e2de22_terms: (98)
+5cf2c16e2de22_usermeta: (81)
+5cf2c16e2de22_users: (2)
+5cf2c16e2de22_wc_admin_note_actions: (5)
+5cf2c16e2de22_wc_admin_notes: (5)
+5cf2c16e2de22_wc_customer_lookup: (30)
+5cf2c16e2de22_wc_download_log: (0)
+5cf2c16e2de22_wc_order_coupon_lookup: (0)
+5cf2c16e2de22_wc_order_product_lookup: (2)
+5cf2c16e2de22_wc_order_stats: (66)
+5cf2c16e2de22_wc_order_tax_lookup: (0)
+5cf2c16e2de22_wc_product_meta_lookup: (6)
+5cf2c16e2de22_wc_webhooks: (0)
+5cf2c16e2de22_woocommerce_api_keys: (0)
+5cf2c16e2de22_woocommerce_attribute_taxonomies: (2)
+5cf2c16e2de22_woocommerce_downloadable_product_permissions: (0)
+5cf2c16e2de22_woocommerce_log: (0)
+5cf2c16e2de22_woocommerce_order_itemmeta: (25)
+5cf2c16e2de22_woocommerce_order_items: (3)
+5cf2c16e2de22_woocommerce_payment_tokenmeta: (0)
+5cf2c16e2de22_woocommerce_payment_tokens: (0)
+5cf2c16e2de22_woocommerce_sessions: (1)
+5cf2c16e2de22_woocommerce_shipping_zone_locations: (1)
+5cf2c16e2de22_woocommerce_shipping_zone_methods: (1)
+5cf2c16e2de22_woocommerce_shipping_zones: (1)
+5cf2c16e2de22_woocommerce_tax_rate_locations: (0)
+5cf2c16e2de22_woocommerce_tax_rates: (0)
+5cf2c16e2de22_yith_wcwl: (0)
+5cf2c16e2de22_yith_wcwl_lists: (1)
+5cf2c16e2de22_yoast_seo_links: (0)
+5cf2c16e2de22_yoast_seo_meta: (6)
+Removed '145' cache/transient rows
+
+INSERT DATA RUNTIME: 10.2124 sec.
+STEP-2 COMPLETE @ 08:13:10 - RUNTIME: 10.2396 sec.
+[PHP ERR][WARN] MSG:mysqli_connect(): Headers and client library minor version mismatch. Headers:50531 Library:50634 [CODE:2|FILE:/home/khoedep/domains/shopkhoedepmoingay.com/public_html/dup-installer/classes/class.db.php|LINE:44]
+[PHP ERR][WARN] MSG:mysqli_connect(): Headers and client library minor version mismatch. Headers:50531 Library:50634 [CODE:2|FILE:/home/khoedep/domains/shopkhoedepmoingay.com/public_html/dup-installer/classes/class.db.php|LINE:44]
+
+
+
+********************************************************************************
+DUPLICATOR-LITE INSTALL-LOG
+STEP-3 START @ 08:13:51
+NOTICE: Do NOT post to public sites or forums
+********************************************************************************
+CHARSET SERVER:	latin1
+CHARSET CLIENT:	utf8
+
+--------------------------------------
+SERIALIZER ENGINE
+[*] scan every column
+[~] scan only text columns
+[^] no searchable columns
+--------------------------------------
+5cf2c16e2de22_commentmeta~ (16)
+5cf2c16e2de22_comments~ (377)
+5cf2c16e2de22_duplicator_packages^ (0)
+5cf2c16e2de22_ewwwio_images^ (0)
+5cf2c16e2de22_ewwwio_queue^ (0)
+5cf2c16e2de22_links^ (0)
+5cf2c16e2de22_lionthemes_user_like_ip^ (0)
+5cf2c16e2de22_litespeed_img_optm^ (0)
+5cf2c16e2de22_litespeed_optimizer^ (0)
+5cf2c16e2de22_options~ (612)
+5cf2c16e2de22_postmeta~ (6640)
+5cf2c16e2de22_posts~ (456)
+5cf2c16e2de22_revslider_css~ (109)
+5cf2c16e2de22_revslider_layer_animations^ (0)
+5cf2c16e2de22_revslider_navigations~ (1)
+5cf2c16e2de22_revslider_sliders~ (4)
+5cf2c16e2de22_revslider_slides~ (12)
+5cf2c16e2de22_revslider_static_slides^ (0)
+5cf2c16e2de22_smush_dir_images~ (4148)
+5cf2c16e2de22_term_relationships~ (392)
+5cf2c16e2de22_term_taxonomy~ (98)
+5cf2c16e2de22_termmeta~ (57)
+5cf2c16e2de22_terms~ (98)
+5cf2c16e2de22_usermeta~ (81)
+5cf2c16e2de22_users~ (2)
+5cf2c16e2de22_wc_admin_note_actions~ (5)
+5cf2c16e2de22_wc_admin_notes~ (5)
+5cf2c16e2de22_wc_customer_lookup~ (30)
+5cf2c16e2de22_wc_download_log^ (0)
+5cf2c16e2de22_wc_order_coupon_lookup^ (0)
+5cf2c16e2de22_wc_order_product_lookup~ (2)
+5cf2c16e2de22_wc_order_stats~ (66)
+5cf2c16e2de22_wc_order_tax_lookup^ (0)
+5cf2c16e2de22_wc_product_meta_lookup~ (6)
+5cf2c16e2de22_wc_webhooks^ (0)
+5cf2c16e2de22_woocommerce_api_keys^ (0)
+5cf2c16e2de22_woocommerce_attribute_taxonomies~ (2)
+5cf2c16e2de22_woocommerce_downloadable_product_permissions^ (0)
+5cf2c16e2de22_woocommerce_log^ (0)
+5cf2c16e2de22_woocommerce_order_itemmeta~ (25)
+5cf2c16e2de22_woocommerce_order_items~ (3)
+5cf2c16e2de22_woocommerce_payment_tokenmeta^ (0)
+5cf2c16e2de22_woocommerce_payment_tokens^ (0)
+5cf2c16e2de22_woocommerce_sessions~ (1)
+5cf2c16e2de22_woocommerce_shipping_zone_locations~ (1)
+5cf2c16e2de22_woocommerce_shipping_zone_methods~ (1)
+5cf2c16e2de22_woocommerce_shipping_zones~ (1)
+5cf2c16e2de22_woocommerce_tax_rate_locations^ (0)
+5cf2c16e2de22_woocommerce_tax_rates^ (0)
+5cf2c16e2de22_yith_wcwl^ (0)
+5cf2c16e2de22_yith_wcwl_lists~ (1)
+5cf2c16e2de22_yoast_seo_links^ (0)
+5cf2c16e2de22_yoast_seo_meta~ (6)
+--------------------------------------
+Search1:	'D:/Project/Tools/xampp/htdocs/gon' 
+Change1:	'/home/khoedep/domains/shopkhoedepmoingay.com/public_html' 
+Search2:	'D:\/Project\/Tools\/xampp\/htdocs\/gon' 
+Change2:	'\/home\/khoedep\/domains\/shopkhoedepmoingay.com\/public_html' 
+Search3:	'D%3A%2FProject%2FTools%2Fxampp%2Fhtdocs%2Fgon%2F' 
+Change3:	'%2Fhome%2Fkhoedep%2Fdomains%2Fshopkhoedepmoingay.com%2Fpublic_html%2F' 
+Search4:	'D:\Project\Tools\xampp\htdocs\gon' 
+Change4:	'/home/khoedep/domains/shopkhoedepmoingay.com/public_html' 
+Search5:	'D:\\Project\\Tools\\xampp\\htdocs\\gon' 
+Change5:	'\/home\/khoedep\/domains\/shopkhoedepmoingay.com\/public_html' 
+Search6:	'D%3A%5CProject%5CTools%5Cxampp%5Chtdocs%5Cgon' 
+Change6:	'%2Fhome%2Fkhoedep%2Fdomains%2Fshopkhoedepmoingay.com%2Fpublic_html' 
+Search7:	'//localhost/gon' 
+Change7:	'//shopkhoedepmoingay.com' 
+Search8:	'\/\/localhost\/gon' 
+Change8:	'\/\/shopkhoedepmoingay.com' 
+Search9:	'%2F%2Flocalhost%2Fgon' 
+Change9:	'%2F%2Fshopkhoedepmoingay.com' 
+Search10:	'http://shopkhoedepmoingay.com' 
+Change10:	'https://shopkhoedepmoingay.com' 
+Search11:	'http:\/\/shopkhoedepmoingay.com' 
+Change11:	'https:\/\/shopkhoedepmoingay.com' 
+Search12:	'http%3A%2F%2Fshopkhoedepmoingay.com' 
+Change12:	'https%3A%2F%2Fshopkhoedepmoingay.com' 
+SCANNED:	Tables:53 	|	 Rows:13258 	|	 Cells:95742 
+UPDATED:	Tables:3 	|	 Rows:4507 	|	 Cells:4513 
+ERRORS:		0 
+RUNTIME:	4.520000 sec
+
+====================================
+CONFIGURATION FILE UPDATES:
+====================================
+
+UPDATED WP-CONFIG ARK FILE:
+ - '/home/khoedep/domains/shopkhoedepmoingay.com/public_html/wp-config.php'
+- PASS: Successfully created a new .htaccess file.
+- PASS: Existing Apache 'htaccess.orig' was removed
+
+====================================
+NOTICES
+====================================
+
+No General Notices Found
+
+FINAL REPORT NOTICES
+
+STEP-3 COMPLETE @ 08:13:56 - RUNTIME: 4.7026 sec. 
+
+
